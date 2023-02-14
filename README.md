@@ -5,9 +5,6 @@ This  repository is project about predict the number of days until the entire In
 ### Methods Used
 * Machine Learning
 
-### Language
-* Python
-
 ### Module
 * Pandas
 * Matplotlib
@@ -16,7 +13,7 @@ This  repository is project about predict the number of days until the entire In
 * Sklearn
 
 Description:
-- Data taken from [here](https://docs.google.com/spreadsheets/d/13oMUqcMijveq00qhSTtQnzJXNuhcdXwDtBRSHQWWLaU/edit?usp=sharing).
+- Data taken from [here](https://github.com/latifaesmananda/predict-time-takes-to-fully-recieve-covid19-vaccine/blob/main/Daily%20Update%20Data%20Agregat%20Covid-19%20Jakarta%20-%20Data%20Jakarta.csv).
 - Data cleaning including handling missing value, duplicated data, and handling outliers
 - Feature Selection using heatmap correlation
 - Preprocessing Data
@@ -24,6 +21,6 @@ Description:
 
 Language : Python
 
-You can see the script with .ipynb form in [here](https://github.com/latifaesmananda/Medical-Cost-GA-ANN/blob/main/medical%20cost%20using%20ANN-GA.ipynb).
+You can see the script with .ipynb form in [here](https://github.com/latifaesmananda/predict-time-takes-to-fully-recieve-covid19-vaccine/blob/main/time-takes-for-full-vaccine.ipynb).
 
 **Hope this helps!👍**
